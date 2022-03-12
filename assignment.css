@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.label1{
+   flex-direction: row;
+}
+
+h1{
+    margin-left: 5%;
+   top: 5%;
+
+
+}
+
+.container{
+    margin-left: 35%;
+    width: 30%;
+    height: 400px;
+    background-color: white;
+    margin-top: 10%;
+    position: relative;
+    border: 1px solid grey ;
+
+   
+}
+.label1{
+    font-size: 22px;
+    margin-left: 5%;
+}
+
+.form span{
+    position: absolute;
+    font-size: 18px;
+    right: 15px;
+
+}
+a{
+    color: green;
+    text-decoration: none;
+    
+}
+#form{
+    width: 350px;
+    height: 35px;
+    padding: 2px;
+    margin-left: 5%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+  
+
+}
+.form{
+    margin-top: 10%;
+   
+   
+}
+.sub{
+    width: 350px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: green;
+    margin-left: 5%;
+    color: white;
+}
+.lp{
+    margin-top: 5%;
+    text-align: center;
+}
